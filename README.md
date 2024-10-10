@@ -1,0 +1,2 @@
+# DIOR
+mi primer repositorio
